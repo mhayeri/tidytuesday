@@ -25,6 +25,7 @@ This repository primarily uses:
 ## 📁 Repository Structure
 
 Each folder contains:
+- 🧹 Dataset - `.csv`
 - 📊 Notebook-based analysis - `.ipynb`
 - 🧪 Visualizations and insights - `app.py`
 - 🌐 (Optional) Shiny dashboard for interaction
